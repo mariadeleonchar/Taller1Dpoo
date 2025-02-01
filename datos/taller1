@@ -1,0 +1,13 @@
+tipo:premium:18:100.0
+tipo:extra:25:90.0
+tipo:corriente:12:120.0
+tipo:regular:20:85.0
+surtidor:GaussJordan:premium:0.0:extra:0.0:corriente:0.0:regular:0.0
+surtidor:ed sheeran:premium:0.0:extra:0.0:corriente:0.0:regular:0.0
+surtidor:vanesa:premium:0.0:extra:0.0:corriente:0.0:regular:0.0
+surtidor:willy:premium:0.0:extra:0.0:corriente:0.0:regular:0.0
+empleado:catalino:0
+empleado:vanesa:0
+empleado:ed sheeran:0
+empleado:willy:0
+empleado:GaussJordan:0
